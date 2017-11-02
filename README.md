@@ -8,5 +8,18 @@ Traduzione di Andrea Zanella.
 La versione originale in inglese di Allen B. Downey si trova sul sito [thinkpython2.com](http://thinkpython2.com)
 
 
+Per compilare l'html in Ubuntu:
+
+```bash
+sudo apt-get install hevea texlive-lang-italian
+
+```
+
+e poi nella shell:
+
+```
+make hevea
+```
+
 
 
